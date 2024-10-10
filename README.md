@@ -1,2 +1,2 @@
-# first
+# Kat Life
 My first repository
